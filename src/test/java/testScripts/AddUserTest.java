@@ -8,7 +8,7 @@ import org.testng.asserts.SoftAssert;
 import genericUtilities.BaseClass;
 
 public class AddUserTest extends BaseClass{
-	
+//This method is used to addtheuser	
 
 	@Test
 	
