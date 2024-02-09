@@ -9,7 +9,7 @@ import genericUtilities.BaseClass;
 import genericUtilities.IconstantPath;
 
 public class AddCourseTest extends BaseClass {
-
+//This method is used to add course
 	@Test
 	
 	public void addCourseTest() {
